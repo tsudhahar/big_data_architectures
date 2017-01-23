@@ -1,3 +1,2 @@
-[foo]: http://example.com/  "Optional Title Here"
-[foo]: http://example.com/  'Optional Title Here'
-[foo]: http://example.com/  (Optional Title Here)
+http://github.com - automatic!
+[GitHub](http://github.com)
